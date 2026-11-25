@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+!.env.example
+*credentials*.json
+adc.json
+*.pem
+*.key
+frontend/node_modules/
+frontend/dist/
+*.log
